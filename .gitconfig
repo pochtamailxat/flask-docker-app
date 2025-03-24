@@ -1,3 +1,5 @@
 [user]
 	name = pochtamailxat
 	email = pochtamailxat@gmail.com
+[credential]
+	helper = store
